@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Related Posts
+title: Recent Posts
 tagline: index
 ---
 <ul class="posts">
